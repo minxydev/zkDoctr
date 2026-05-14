@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Solana x402 Template',
-  description: 'This is a Next.js template with Solana payment integration using the x402 protocol.',
+  title: 'zkDoctr - The future of healthcare',
+  description: 'zkDoctr - Agentic Healthcare marketplace on Solana. Secured with zero knowledge proofs.',
 }
 
 export default function RootLayout({
