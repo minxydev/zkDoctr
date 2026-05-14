@@ -1,5 +1,8 @@
 <!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# AGENTS.md
+This file provides guidance to coding agents working in this repository.
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
+## Project Overview
+zkDoctr is a starter kit for building zero knowledge proofs apps on Solana. 
+
 <!-- END:nextjs-agent-rules -->
