@@ -1,5 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
 # dependencies
 /node_modules
 /.pnp
@@ -60,3 +65,7 @@ dev-wallet.json
 scripts/test-wallets.json
 scripts/compressed-mint-config.json
 scripts/airdrop-recipients.json
+
+# cli
+dist
+.vercel
