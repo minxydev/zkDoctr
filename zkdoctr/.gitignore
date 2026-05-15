@@ -43,3 +43,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# anchor
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+dev-wallet.json
+
+# airdrop scripts
+scripts/test-wallets.json
+scripts/compressed-mint-config.json
+scripts/airdrop-recipients.json
